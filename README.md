@@ -1,3 +1,3 @@
-# flutter_firebase
+# FLUTTER_FIREBASE
 
-A new Flutter project.
+A Flutter Bloc project, db firebase.
